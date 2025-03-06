@@ -722,6 +722,8 @@ ul.nav > li > a.active {
     line-height: 1.1;
     color: #fff;
     font-weight: 500;
+    margin-top: 20px;
+    padding-top: 20px;
     padding-bottom: 15px;
     margin-bottom: 10px;
 }
